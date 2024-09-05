@@ -191,7 +191,7 @@ def good_luck(config):
 ###############################
 def log(device_return):
     if device_return:
-        print(json.dumps(device_return))
+        print(json.dumps(device_return) + "\n")
     
 if __name__ == "__main__":
     # set global creds for every group
