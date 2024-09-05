@@ -1,8 +1,7 @@
 #!/bin/python3.9
 
 ###############################
-#   LAST EDIT 28.08.2024      #
-#   Version 1.0               #
+#   LAST EDIT 05.09.2024      #
 ###############################
 import os
 import yaml
