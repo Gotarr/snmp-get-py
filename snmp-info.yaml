@@ -12,8 +12,8 @@ switch-catalyst:
       state: 1.3.6.1.2.1.2.2.1.7
 
   targets:
-    Y01PHINNSW005: 9.99.32.250
-    Y01PHINNSW006: 9.99.32.251
+    Y01PHINNSW005: xx
+    Y01PHINNSW006: xx
 
 switch-nexus:
   oids:
@@ -29,10 +29,10 @@ switch-nexus:
       state: 1.3.6.1.2.1.2.2.1.7
 
   targets:
-    Y01PHINNSW001: 9.99.32.246
-    Y01PHINNSW002: 9.99.32.247
-    Y01PHINNSW003: 9.99.32.248
-    Y01PHINNSW004: 9.99.32.249
+    Y01PHINNSW001: xx
+    Y01PHINNSW002: xx
+    Y01PHINNSW003: xx
+    Y01PHINNSW004: xx
 
   credentials_file: /opt/splunkforwarder/etc/apps/TA_socc_snmp/bin/creds-switch-nexus
 
